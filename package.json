@@ -1,0 +1,24 @@
+{
+  "name": "29oct_3",
+  "version": "1.0.0",
+  "description": "Express.js server with Hello World and Good Evening endpoints",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --forceExit"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "supertest": "^7.1.4"
+  }
+}
